@@ -55,6 +55,3 @@ This content has been targeted to internal Microsoft, Partners and Customers loo
 ##### 3:15 – 4 PM Azure Cost Management Challenge
 ##### 4 – 4:45 PM Azure Resource Graph Challenge
 ##### 4:45 - 5 PM: Wrap up
-
-### Contributors:
-I would like to thank my collegue Rob for reviewing this material and adding the Azure Cost Management Challenge. 
